@@ -1,2 +1,3 @@
 # llm-playground
 # 2026-01-02: Clean up unused imports
+# 2026-01-03: Cache tokenised dataset to disk
