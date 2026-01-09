@@ -3,3 +3,4 @@
 # 2026-01-03: Cache tokenised dataset to disk
 # 2026-01-07: Document model architecture
 # 2026-01-09: Fix seed for reproducibility
+# 2026-01-09: Add progress bar to training loop
