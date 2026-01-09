@@ -2,3 +2,4 @@
 # 2026-01-02: Clean up unused imports
 # 2026-01-03: Cache tokenised dataset to disk
 # 2026-01-07: Document model architecture
+# 2026-01-09: Fix seed for reproducibility
