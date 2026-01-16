@@ -6,3 +6,4 @@
 # 2026-01-09: Add progress bar to training loop
 # 2026-01-11: Add docstrings to utility functions
 # 2026-01-14: Fix gradient accumulation bug
+# 2026-01-16: Improve error handling in data loader
