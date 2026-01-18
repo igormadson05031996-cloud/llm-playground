@@ -7,3 +7,4 @@
 # 2026-01-11: Add docstrings to utility functions
 # 2026-01-14: Fix gradient accumulation bug
 # 2026-01-16: Improve error handling in data loader
+# 2026-01-18: Document model architecture
