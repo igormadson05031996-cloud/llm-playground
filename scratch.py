@@ -5,3 +5,4 @@
 # 2026-01-15: Add docstrings to utility functions
 # 2026-01-17: Document model architecture
 # 2026-01-18: Add early stopping to trainer
+# 2026-01-21: Log validation metrics per epoch
