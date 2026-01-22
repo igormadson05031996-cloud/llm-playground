@@ -6,3 +6,4 @@
 # 2026-01-19: Simplify config loading
 # 2026-01-20: Tune hyperparameters for better accuracy
 # 2026-01-21: Clean up unused imports
+# 2026-01-22: Cache tokenised dataset to disk
