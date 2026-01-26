@@ -7,3 +7,4 @@
 # 2026-01-18: Add early stopping to trainer
 # 2026-01-21: Log validation metrics per epoch
 # 2026-01-22: Bump numpy to latest stable
+# 2026-01-26: Update README with usage examples
