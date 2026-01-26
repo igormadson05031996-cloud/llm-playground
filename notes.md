@@ -9,3 +9,4 @@
 # 2026-01-22: Cache tokenised dataset to disk
 # 2026-01-22: Vectorise inner loop for speed
 # 2026-01-23: Fix seed for reproducibility
+# 2026-01-26: Add unit tests for tokenizer
