@@ -5,3 +5,4 @@
 # 2026-01-10: Refactor training loop for clarity
 # 2026-01-12: Fix off-by-one in batch sampler
 # 2026-01-26: Simplify config loading
+# 2026-01-28: Switch to AdamW optimiser
