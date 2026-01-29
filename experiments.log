@@ -8,3 +8,4 @@
 # 2026-01-14: Fix gradient accumulation bug
 # 2026-01-16: Improve error handling in data loader
 # 2026-01-18: Document model architecture
+# 2026-01-29: Cache tokenised dataset to disk
