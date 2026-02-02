@@ -12,3 +12,4 @@
 # 2026-01-29: Refactor training loop for clarity
 # 2026-01-31: Handle empty batch edge case
 # 2026-02-02: Add docstrings to utility functions
+# 2026-02-02: Bump numpy to latest stable
