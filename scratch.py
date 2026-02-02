@@ -11,3 +11,4 @@
 # 2026-01-28: Fix edge case in data preprocessing
 # 2026-01-29: Refactor training loop for clarity
 # 2026-01-31: Handle empty batch edge case
+# 2026-02-02: Add docstrings to utility functions
