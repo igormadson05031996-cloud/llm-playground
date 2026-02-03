@@ -11,3 +11,4 @@
 # 2026-01-29: Cache tokenised dataset to disk
 # 2026-01-29: Update dependencies
 # 2026-02-02: Minor performance improvements
+# 2026-02-03: Document model architecture
