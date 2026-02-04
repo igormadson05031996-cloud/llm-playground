@@ -5,3 +5,4 @@
 # 2026-01-16: Handle empty batch edge case
 # 2026-01-17: Fix gradient accumulation bug
 # 2026-01-18: Add baseline evaluation script
+# 2026-02-04: Add unit tests for tokenizer
