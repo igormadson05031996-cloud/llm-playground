@@ -13,3 +13,4 @@
 # 2026-02-02: Minor performance improvements
 # 2026-02-03: Document model architecture
 # 2026-02-04: Handle empty batch edge case
+# 2026-02-06: Switch to AdamW optimiser
