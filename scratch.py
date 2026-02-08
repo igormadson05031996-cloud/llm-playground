@@ -13,3 +13,4 @@
 # 2026-01-31: Handle empty batch edge case
 # 2026-02-02: Add docstrings to utility functions
 # 2026-02-02: Bump numpy to latest stable
+# 2026-02-08: Log validation metrics per epoch
