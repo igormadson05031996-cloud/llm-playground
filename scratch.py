@@ -15,3 +15,4 @@
 # 2026-02-02: Bump numpy to latest stable
 # 2026-02-08: Log validation metrics per epoch
 # 2026-02-08: Update dependencies
+# 2026-02-09: Refactor training loop for clarity
