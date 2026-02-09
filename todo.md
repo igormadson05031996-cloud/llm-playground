@@ -8,3 +8,4 @@
 # 2026-02-04: Add unit tests for tokenizer
 # 2026-02-06: Add early stopping to trainer
 # 2026-02-09: Fix checkpoint save path
+# 2026-02-09: Add progress bar to training loop
