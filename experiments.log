@@ -16,3 +16,4 @@
 # 2026-02-06: Switch to AdamW optimiser
 # 2026-02-07: Clean up unused imports
 # 2026-02-07: Improve error handling in data loader
+# 2026-02-10: Update dependencies
