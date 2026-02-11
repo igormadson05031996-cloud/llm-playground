@@ -12,3 +12,4 @@
 # 2026-01-26: Add unit tests for tokenizer
 # 2026-01-31: Add unit tests for tokenizer
 # 2026-02-07: Vectorise inner loop for speed
+# 2026-02-11: Bump numpy to latest stable
