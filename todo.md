@@ -10,3 +10,4 @@
 # 2026-02-09: Fix checkpoint save path
 # 2026-02-09: Add progress bar to training loop
 # 2026-02-14: Fix off-by-one in batch sampler
+# 2026-02-15: Vectorise inner loop for speed
