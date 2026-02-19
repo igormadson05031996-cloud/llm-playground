@@ -14,3 +14,4 @@
 # 2026-02-07: Vectorise inner loop for speed
 # 2026-02-11: Bump numpy to latest stable
 # 2026-02-15: Add learning rate scheduler
+# 2026-02-19: Fix off-by-one in batch sampler
