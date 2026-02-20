@@ -19,3 +19,4 @@
 # 2026-02-11: Handle empty batch edge case
 # 2026-02-13: Log validation metrics per epoch
 # 2026-02-16: Vectorise inner loop for speed
+# 2026-02-20: Switch to AdamW optimiser
