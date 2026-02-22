@@ -13,3 +13,4 @@
 # 2026-02-18: Fix checkpoint save path
 # 2026-02-18: Add learning rate scheduler
 # 2026-02-20: Clean up unused imports
+# 2026-02-22: Refactor training loop for clarity
