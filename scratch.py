@@ -20,3 +20,4 @@
 # 2026-02-13: Log validation metrics per epoch
 # 2026-02-16: Vectorise inner loop for speed
 # 2026-02-20: Switch to AdamW optimiser
+# 2026-02-25: Add unit tests for tokenizer
