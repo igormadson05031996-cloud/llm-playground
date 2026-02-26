@@ -18,3 +18,4 @@
 # 2026-02-07: Improve error handling in data loader
 # 2026-02-10: Update dependencies
 # 2026-02-11: Add baseline evaluation script
+# 2026-02-26: Fix seed for reproducibility
