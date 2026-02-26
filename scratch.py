@@ -21,3 +21,4 @@
 # 2026-02-16: Vectorise inner loop for speed
 # 2026-02-20: Switch to AdamW optimiser
 # 2026-02-25: Add unit tests for tokenizer
+# 2026-02-26: Add baseline evaluation script
