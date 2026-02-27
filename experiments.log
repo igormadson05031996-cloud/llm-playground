@@ -19,3 +19,4 @@
 # 2026-02-10: Update dependencies
 # 2026-02-11: Add baseline evaluation script
 # 2026-02-26: Fix seed for reproducibility
+# 2026-02-27: Handle empty batch edge case
