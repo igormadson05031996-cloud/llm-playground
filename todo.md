@@ -13,3 +13,4 @@
 # 2026-02-15: Vectorise inner loop for speed
 # 2026-02-25: Cache tokenised dataset to disk
 # 2026-02-25: Vectorise inner loop for speed
+# 2026-02-28: Add learning rate scheduler
