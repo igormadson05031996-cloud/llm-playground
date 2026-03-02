@@ -23,3 +23,4 @@
 # 2026-02-25: Add unit tests for tokenizer
 # 2026-02-26: Add baseline evaluation script
 # 2026-03-01: Switch to AdamW optimiser
+# 2026-03-02: Bump numpy to latest stable
