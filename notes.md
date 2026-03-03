@@ -15,3 +15,4 @@
 # 2026-02-11: Bump numpy to latest stable
 # 2026-02-15: Add learning rate scheduler
 # 2026-02-19: Fix off-by-one in batch sampler
+# 2026-03-03: Simplify config loading
