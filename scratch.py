@@ -24,3 +24,4 @@
 # 2026-02-26: Add baseline evaluation script
 # 2026-03-01: Switch to AdamW optimiser
 # 2026-03-02: Bump numpy to latest stable
+# 2026-03-04: Bump numpy to latest stable
