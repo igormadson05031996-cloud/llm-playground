@@ -26,3 +26,4 @@
 # 2026-03-02: Bump numpy to latest stable
 # 2026-03-04: Bump numpy to latest stable
 # 2026-03-05: Simplify config loading
+# 2026-03-06: Add early stopping to trainer
