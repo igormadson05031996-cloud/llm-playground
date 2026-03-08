@@ -16,3 +16,4 @@
 # 2026-02-15: Add learning rate scheduler
 # 2026-02-19: Fix off-by-one in batch sampler
 # 2026-03-03: Simplify config loading
+# 2026-03-08: Add docstrings to utility functions
