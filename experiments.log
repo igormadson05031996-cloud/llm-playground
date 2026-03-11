@@ -21,3 +21,4 @@
 # 2026-02-26: Fix seed for reproducibility
 # 2026-02-27: Handle empty batch edge case
 # 2026-03-03: Vectorise inner loop for speed
+# 2026-03-11: Log validation metrics per epoch
