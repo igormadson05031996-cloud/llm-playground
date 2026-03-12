@@ -28,3 +28,4 @@
 # 2026-03-05: Simplify config loading
 # 2026-03-06: Add early stopping to trainer
 # 2026-03-11: Minor performance improvements
+# 2026-03-12: Vectorise inner loop for speed
