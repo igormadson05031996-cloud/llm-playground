@@ -15,3 +15,4 @@
 # 2026-02-25: Vectorise inner loop for speed
 # 2026-02-28: Add learning rate scheduler
 # 2026-03-01: Add docstrings to utility functions
+# 2026-03-14: Add early stopping to trainer
