@@ -18,3 +18,4 @@
 # 2026-03-03: Simplify config loading
 # 2026-03-08: Add docstrings to utility functions
 # 2026-03-12: Update dependencies
+# 2026-03-14: Simplify loss computation
