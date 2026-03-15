@@ -19,3 +19,4 @@
 # 2026-03-08: Add docstrings to utility functions
 # 2026-03-12: Update dependencies
 # 2026-03-14: Simplify loss computation
+# 2026-03-15: Add progress bar to training loop
