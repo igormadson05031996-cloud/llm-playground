@@ -22,3 +22,4 @@
 # 2026-02-27: Handle empty batch edge case
 # 2026-03-03: Vectorise inner loop for speed
 # 2026-03-11: Log validation metrics per epoch
+# 2026-03-17: Extract config into dataclass
