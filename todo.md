@@ -17,3 +17,4 @@
 # 2026-03-01: Add docstrings to utility functions
 # 2026-03-14: Add early stopping to trainer
 # 2026-03-17: Add progress bar to training loop
+# 2026-03-20: Log validation metrics per epoch
